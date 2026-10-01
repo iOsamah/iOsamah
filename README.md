@@ -96,8 +96,8 @@ Languages : Arabic (Native)  |  English (Professional Working Proficiency)
 
 **[🛒 Superstore Sales Analysis](https://github.com/iOsamah/superstore-sales-analysis)**  
 9,800 orders · **$2.26M** sales  
-💡 ~50% growth 2015→2018; South region underperforms  
-<sub>Python · Pandas · Matplotlib</sub>
+💡 ~50% growth 2015→2018 · 10 business questions in SQL  
+<sub>Python · SQL (SQLite) · Pandas · Matplotlib</sub>
 </td>
 </tr>
 </table>
